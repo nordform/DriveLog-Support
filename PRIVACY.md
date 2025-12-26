@@ -3,7 +3,7 @@
 **Last updated: December 26, 2025**
 
 ## 1. Introduction
-DriveLog ("we", "our", or "us") values your privacy. This Privacy Policy explains how we handle your data when you use our DriveLog iOS application.
+nordform.dev ("we", "our", or "us") values your privacy. This Privacy Policy explains how we handle your data when you use our DriveLog iOS application.
 
 ## 2. Data Collection and Storage
 **We do not collect, store, or share any of your personal data.**
